@@ -1,3 +1,68 @@
+¡Claro! Aquí tienes un **README.md simple, claro y académico** para tu repositorio `docker-test`, siguiendo el mismo estilo del anterior:
+
+---
+
+# Taller Académico: Prueba Básica con Docker
+
+**Autor**:  
+LUIS MANUEL ROJAS CORREA  
+Código: A00399289
+
+---
+
+## Objetivo del repositorio
+
+Este repositorio contiene una configuración básica para **crear y ejecutar un contenedor Docker** a partir de una imagen simple (por ejemplo, `nginx`, `httpd`, o una app personalizada).
+
+Fue desarrollado como parte de un taller académico para aprender:
+
+- Los fundamentos de **Docker** y contenedores.
+- Cómo construir y ejecutar imágenes desde un `Dockerfile`.
+- Cómo mapear puertos y probar servicios en un entorno local.
+
+---
+
+##  ¿Qué incluye?
+
+- Un archivo `Dockerfile` que define la imagen del contenedor.
+- (Opcional) Un `index.html` o app de prueba si se incluye.
+- Comandos básicos para construir y correr el contenedor (pueden estar en el README o en instrucciones del taller).
+
+---
+
+##  Uso académico
+
+Este proyecto es **solo para fines educativos**. Sirve como introducción práctica al uso de Docker en entornos de desarrollo y despliegue ligero.
+
+---
+
+ **Entregado por**: LUIS MANUEL ROJAS CORREA (A00399289)  
+ *Taller de contenedores y virtualización*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
