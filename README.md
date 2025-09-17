@@ -1,6 +1,4 @@
-¡Claro! Aquí tienes un **README.md simple, claro y académico** para tu repositorio `docker-test`, siguiendo el mismo estilo del anterior:
 
----
 
 # Taller Académico: Prueba Básica con Docker
 
